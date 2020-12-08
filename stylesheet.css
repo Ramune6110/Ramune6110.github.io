@@ -17,9 +17,18 @@ a {
   margin: 0 auto;
 }
 
-.top-wrapper {
+/*.top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(top.png);
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+*/
+
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: url(robot.jpg);
   background-size: cover;
   color: white;
   text-align: center;
